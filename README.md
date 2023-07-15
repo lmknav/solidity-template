@@ -1,1 +1,2 @@
 # solidity-template
+Sample text
